@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Maksim Birulia
+HTML CSS Basic: https://www.codecademy.com/MAZAXIST

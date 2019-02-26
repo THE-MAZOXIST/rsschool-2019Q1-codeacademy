@@ -1,2 +1,2 @@
 Maksim Birulia
-HTML CSS Basic: https://www.codecademy.com/MAZAXIST
+https://www.codecademy.com/users/MAZAXIST/achievements
